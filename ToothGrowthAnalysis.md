@@ -1,6 +1,3 @@
----
-output: pdf_document
----
 # Statistical Inference: Course Project 
 By <i><b>Nirmal Labh</b> [August 22, 2014]</i> 
  
