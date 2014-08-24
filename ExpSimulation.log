@@ -1,0 +1,500 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdfetex 2014.5.25)  21 AUG 2014 17:29
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**\nonstopmode \input /Users/nitya/Downloads/ExpSimulation.md
+(/Users/nitya/Downloads/ExpSimulation.md
+/Users/nitya/Downloads/ExpSimulation.md:2: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.2 output: pdf_
+                document
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/nitya/Downloads/ExpSimulation.md:4: You can't use `macro parameter chara
+cter #' in math mode.
+l.4 #
+      Statistical Inference: Course Project
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/nitya/Downloads/ExpSimulation.md:6: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.6 
+    
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/nitya/Downloads/ExpSimulation.md:7: You can't use `macro parameter chara
+cter #' in vertical mode.
+l.7 #
+     # Part 1: Simulation Exercise
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/nitya/Downloads/ExpSimulation.md:7: You can't use `macro parameter chara
+cter #' in vertical mode.
+l.7 ##
+       Part 1: Simulation Exercise
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/nitya/Downloads/ExpSimulation.md:20: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.20 mean_
+          per_sample  <- apply(expMatrix,1,mean)
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/nitya/Downloads/ExpSimulation.md:23: You can't use `macro parameter char
+acter #' in math mode.
+l.23 #
+      ## 1. Show where the distribution is centered at and compare it to the...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/nitya/Downloads/ExpSimulation.md:23: You can't use `macro parameter char
+acter #' in math mode.
+l.23 ##
+       # 1. Show where the distribution is centered at and compare it to the...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/nitya/Downloads/ExpSimulation.md:23: You can't use `macro parameter char
+acter #' in math mode.
+l.23 ###
+         1. Show where the distribution is centered at and compare it to the...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/nitya/Downloads/ExpSimulation.md:25: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.25 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (704.44278pt too wide) in paragraph at lines 19--25
+[]\tenrm ```r mean$[]\teni er[]ample < \tensy ^^@\teni apply\tenrm (\teni expMa
+trix; \tenrm 1\teni ; mean\tenrm )\teni sd[]er[]ample < \tensy ^^@\teni apply\t
+enrm (\teni expMatrix; \tenrm 1\teni ; sd\tenrm )\`1\teni :Showwherethedistribu
+tioniscenteredatandcompareittothetheoreticalcenterofthedistribution:Belowarethe
+calculatedmean; followedbythetheoriticalmean\tenrm (1\teni =labmda\tenrm ) :$ |
+
+
+\hbox(7.5+2.86108)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm \ (ligature ``)
+.\tenrm `
+.\tenrm r
+.\glue 3.33333 plus 1.66666 minus 1.11111
+.etc.
+
+/Users/nitya/Downloads/ExpSimulation.md:27: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.27 me <- mean(mean_
+                     per_sample)
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/nitya/Downloads/ExpSimulation.md:30: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.30 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/nitya/Downloads/ExpSimulation.md:32: You can't use `macro parameter char
+acter #' in horizontal mode.
+l.32 #
+      # [1] 5.005
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/nitya/Downloads/ExpSimulation.md:32: You can't use `macro parameter char
+acter #' in horizontal mode.
+l.32 ##
+        [1] 5.005
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/nitya/Downloads/ExpSimulation.md:40: You can't use `macro parameter char
+acter #' in horizontal mode.
+l.40 #
+      # [1] 5
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/nitya/Downloads/ExpSimulation.md:40: You can't use `macro parameter char
+acter #' in horizontal mode.
+l.40 ##
+        [1] 5
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/nitya/Downloads/ExpSimulation.md:42: You can't use `macro parameter char
+acter #' in horizontal mode.
+l.42 #
+      ## 2. Show how variable it is and compare it to the theoretical varian...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/nitya/Downloads/ExpSimulation.md:42: You can't use `macro parameter char
+acter #' in horizontal mode.
+l.42 ##
+       # 2. Show how variable it is and compare it to the theoretical varian...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/nitya/Downloads/ExpSimulation.md:42: You can't use `macro parameter char
+acter #' in horizontal mode.
+l.42 ###
+         2. Show how variable it is and compare it to the theoretical varian...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/nitya/Downloads/ExpSimulation.md:46: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.46 sd <- sd(mean_
+                   per_sample)
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/nitya/Downloads/ExpSimulation.md:49: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.49 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/nitya/Downloads/ExpSimulation.md:51: You can't use `macro parameter char
+acter #' in horizontal mode.
+l.51 #
+      # [1] 0.7965
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/nitya/Downloads/ExpSimulation.md:51: You can't use `macro parameter char
+acter #' in horizontal mode.
+l.51 ##
+        [1] 0.7965
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/nitya/Downloads/ExpSimulation.md:55: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   ^
+l.55 sd^
+        2
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/nitya/Downloads/ExpSimulation.md:57: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.57 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/nitya/Downloads/ExpSimulation.md:59: You can't use `macro parameter char
+acter #' in horizontal mode.
+l.59 #
+      # [1] 0.6345
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/nitya/Downloads/ExpSimulation.md:59: You can't use `macro parameter char
+acter #' in horizontal mode.
+l.59 ##
+        [1] 0.6345
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/nitya/Downloads/ExpSimulation.md:63: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   ^
+l.63 ((1/lambda)/sqrt(m))^
+                          2
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/nitya/Downloads/ExpSimulation.md:65: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.65 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/nitya/Downloads/ExpSimulation.md:67: You can't use `macro parameter char
+acter #' in horizontal mode.
+l.67 #
+      # [1] 0.625
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/nitya/Downloads/ExpSimulation.md:67: You can't use `macro parameter char
+acter #' in horizontal mode.
+l.67 ##
+        [1] 0.625
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/nitya/Downloads/ExpSimulation.md:69: You can't use `macro parameter char
+acter #' in horizontal mode.
+l.69 #
+      ## 3. Show that the distribution is approximately normal.
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/nitya/Downloads/ExpSimulation.md:69: You can't use `macro parameter char
+acter #' in horizontal mode.
+l.69 ##
+       # 3. Show that the distribution is approximately normal.
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/nitya/Downloads/ExpSimulation.md:69: You can't use `macro parameter char
+acter #' in horizontal mode.
+l.69 ###
+         3. Show that the distribution is approximately normal.
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/nitya/Downloads/ExpSimulation.md:76: You can't use `macro parameter char
+acter #' in horizontal mode.
+l.76 #
+       histogram of mean(s)
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/nitya/Downloads/ExpSimulation.md:77: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.77 hist(mean_
+               per_sample,freq=FALSE,xlab = "",col="gray",
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/nitya/Downloads/ExpSimulation.md:83: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.83 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (10.91365pt too wide) in paragraph at lines 75--83
+\tenrm "\teni HistogramofMeans \tenrm : \teni ApproachingBellCurve\tenrm ")\ten
+i lines\tenrm (\teni density\tenrm (\teni mean[]er[]ample\tenrm )\teni ; col \t
+enrm =[] \teni blue[]; type \tenrm =[] \teni l[]; lty \tenrm =|
+
+\hbox(7.51782+2.86108)x469.75499
+.\tenrm "
+.\teni H
+.\kern0.81247
+.\teni i
+.\teni s
+.etc.
+
+
+Overfull \hbox (237.46648pt too wide) in paragraph at lines 75--83
+\tenrm 1\teni ; ylab \tenrm =[] \teni distributionvalues[]; main \tenrm = "\ten
+i ApproachingBellCurve\tenrm "\teni ; xlab \tenrm =[])\teni legend\tenrm ("\ten
+i topright\tenrm "\teni ; col \tenrm = \teni c\tenrm ("\teni blue\tenrm ")\teni
+ ; c\tenrm ("\teni SuperimposedKernelDensityEstimate\tenrm ")\teni ; lwd \tenrm
+ =|
+
+\hbox(7.51782+2.5)x469.75499
+.\tenrm 1
+.\teni ;
+.\glue(\thinmuskip) 1.66663
+.\teni y
+.\kern0.35878
+.etc.
+
+/Users/nitya/Downloads/ExpSimulation.md:85: You can't use `macro parameter char
+acter #' in horizontal mode.
+l.85 #
+      ## 4.  Evaluate the coverage of the confidence intervali for 1/lambda:
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/nitya/Downloads/ExpSimulation.md:85: You can't use `macro parameter char
+acter #' in horizontal mode.
+l.85 ##
+       # 4.  Evaluate the coverage of the confidence intervali for 1/lambda:
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/nitya/Downloads/ExpSimulation.md:85: You can't use `macro parameter char
+acter #' in horizontal mode.
+l.85 ###
+         4.  Evaluate the coverage of the confidence intervali for 1/lambda:
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/nitya/Downloads/ExpSimulation.md:89: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.89 ci_
+        left  <- mean_per_sample - 1.96*sd_per_sample/sqrt(m)
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/nitya/Downloads/ExpSimulation.md:91: Misplaced alignment tab character &
+.
+l.91 mean(ci_left < 1/lambda &
+                               ci_right > 1/lambda)
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/nitya/Downloads/ExpSimulation.md:93: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.93 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (114.59064pt too wide) in paragraph at lines 88--93
+[]\tenrm ```r ci$[]\teni eft < \tensy ^^@\teni mean[]er[]ample \tensy ^^@ \tenr
+m 1\teni :\tenrm 96 \tensy ^^C \teni sd[]er[]ample=sqrt\tenrm (\teni m\tenrm )\
+teni ci[]ight < \tensy ^^@\teni mean[]er[]ample \tenrm + 1\teni :\tenrm 96 \ten
+sy ^^C \teni sd[]er[]ample=sqrt\tenrm (\teni m\tenrm )\teni mean\tenrm (\teni c
+i[]eft <|
+
+\hbox(7.5+2.86108)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm \ (ligature ``)
+.\tenrm `
+.\tenrm r
+.\glue 3.33333 plus 1.66666 minus 1.11111
+.etc.
+
+/Users/nitya/Downloads/ExpSimulation.md:95: You can't use `macro parameter char
+acter #' in horizontal mode.
+l.95 #
+      # [1] 0.9247
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/nitya/Downloads/ExpSimulation.md:95: You can't use `macro parameter char
+acter #' in horizontal mode.
+l.95 ##
+        [1] 0.9247
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+)
+! Emergency stop.
+<*> ...put /Users/nitya/Downloads/ExpSimulation.md
+                                                  
+*** (job aborted, no legal \end found)
+
+!  ==> Fatal error occurred, no output PDF file produced!
